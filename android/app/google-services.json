@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "66409672372",
+    "project_id": "ev-sathi",
+    "storage_bucket": "ev-sathi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66409672372:android:4c8ac2002fe133d390b1e1",
+        "android_client_info": {
+          "package_name": "com.warriors.evsathi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66409672372-hpnpaestagmhljcbqn8qm9o72og3u5t8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.warriors.evsathi",
+            "certificate_hash": "85835c264e01aab709857b9e3e91be48b0ea55fb"
+          }
+        },
+        {
+          "client_id": "66409672372-0lfi14v5grbjddtehhgscgj6uiabgq6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQpoVJpHZBSLw0unEwyu6HOwcyI3EywoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66409672372-0lfi14v5grbjddtehhgscgj6uiabgq6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
